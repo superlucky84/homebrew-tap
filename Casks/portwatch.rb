@@ -1,6 +1,6 @@
 cask "portwatch" do
-  version "0.1.0"
-  sha256 "c0579d1fd1e657b4cf4403320f6401f30ce1777c3d71b6bef4e463ee8d3203c0"
+  version "0.1.1"
+  sha256 "8b8efa3388393f356920422dfd8b9740d61745ecd1967a15891baef12d8a1e3b"
 
   url "https://github.com/superlucky84/homebrew-tap/releases/download/portwatch-v#{version}/portwatch-#{version}-arm64.zip"
   name "portwatch"
